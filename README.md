@@ -1,6 +1,6 @@
-==============================
-📦 GUIDE COMPLET DU PROJET
-==============================
+
+**📦 GUIDE COMPLET DU PROJET**
+
 
 # 📊 Application Web : Analyse et Visualisation de Données avec Streamlit & Flask
 
