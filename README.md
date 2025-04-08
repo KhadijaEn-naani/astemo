@@ -1,8 +1,8 @@
 
-**📦 GUIDE COMPLET DU PROJET**
+#📦 GUIDE COMPLET DU PROJET
 
 
-# 📊 Application Web : Analyse et Visualisation de Données avec Streamlit & Flask
+## 📊 Application Web : Analyse et Visualisation de Données avec Streamlit & Flask
 
 Ce projet est une application interactive développée avec **Streamlit** pour l'interface utilisateur et **Flask** pour le backend, destinée à visualiser el'impact des fournisseurs (Excel, CSV) de manière intuitive.
 
